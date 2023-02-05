@@ -9,7 +9,7 @@ I am front end developer💻 and have experiences making applications with React
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png"></code>
-  <code><img width="10%" height="50px" src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png"></code>
+  <code><img width="10%" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -26,4 +26,9 @@ I am front end developer💻 and have experiences making applications with React
   <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/home.png"></a>
   <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/detail.png"></a>
   <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/createVideogame.png"></a>
+</p>
+
+<h3>Hangman</h3>
+<p>
+  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/hangman.png"></a>
 </p>
