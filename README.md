@@ -23,5 +23,8 @@ I am front end developer💻 and have experiences making applications with React
 <h3>Videogames</h3>
 
 <p>
-  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/videogames.PNG"></a>
+  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/videogames.png"></a>
+  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/home.png"></a>
+  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/detail.png"></a>
+  <a><img src="https://github.com/Pablo333333/Pablo333333/blob/main/images/addVideogame.png"></a>
 </p>
