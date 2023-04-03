@@ -9,7 +9,7 @@ I am fullstack developer💻 and have experiences making applications with Postg
 <p>
   <code><img width= "10%" height= "50px" src= "https://www.comparasoftware.com/wp-content/uploads/2018/08/logoPostgreSQL.png"></code>
   <code><img width= "10%" height= "50px" src= "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-  <code><img width= "10%" height= "50px" src= "https://commons.wikimedia.org/wiki/File:Expressjs.png"></code>
+  <code><img width= "10%" height= "50px" src= "https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png"></code>
   <br />
   <code><img width= "10%" src= "https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width= "10%" height= "45" src= "https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
